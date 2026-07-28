@@ -23,15 +23,7 @@ A Python-based digital forensics toolkit for collecting and analyzing Google Chr
 * Datetime
 * urllib.parse
 
-## Project Structure
 
-```
-Browser-Forensics-Toolkit/
-│
-├── main.py
-├── README.md
-└── requirements.txt (optional)
-```
 
 ## How It Works
 
@@ -47,40 +39,6 @@ Browser-Forensics-Toolkit/
 * Python 3.9 or newer
 * Windows
 * Google Chrome installed
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/browser-forensics-toolkit.git
-```
-
-Go to the project folder:
-
-```bash
-cd browser-forensics-toolkit
-```
-
-Run the program:
-
-```bash
-python main.py
-```
-
-## Example Output
-
-```
-Browser Forensics Toolkit
-
-Title: OpenAI
-URL: https://openai.com
-Visited: 2026-07-27 18:45:12
-
-Title: GitHub
-URL: https://github.com
-Visited: 2026-07-27 19:10:04
-```
 
 ## Learning Objectives
 
